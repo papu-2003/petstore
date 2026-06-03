@@ -21,4 +21,4 @@ steps:
 - task: CavissonCodeAnalyzer@1
   inputs:
     cavissonAnalyzerServiceConnection: 'cav1'
-    project: 
+    project: 'petstore'
